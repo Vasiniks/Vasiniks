@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6-Explore%20my%203D%20workspace-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Explore my 3D workspace" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Vasiniks&style=for-the-badge&color=bb9af7&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
 </p>
 
 ```ts
@@ -165,8 +165,8 @@ Keep a MacBook running lid-closed on battery via <code>pmset</code>, with a safe
 ## 📈 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&custom_title=Activity" alt="GitHub activity" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="346" src="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&custom_title=Activity" alt="GitHub activity" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vasiniks&theme=tokyonight&hide_border=true" alt="Contribution streak" />
