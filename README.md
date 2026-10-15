@@ -1,14 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,55:3d59a1,100:bb9af7&text=Vasiniks&fontColor=ffffff&fontSize=78&fontAlignY=36&desc=AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vasiniks" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27%2C55:3d59a1%2C100:bb9af7&text=Vasiniks&fontColor=ffffff&fontSize=78&fontAlignY=36&desc=AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7aa2f7%2C100:bb9af7&text=Vasiniks&fontColor=1a1b27&fontSize=78&fontAlignY=36&desc=AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vasiniks" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps;Student+%C2%B7+1k%2B+commits+in+the+last+year" alt="AI research, frontend, Swift, chaos on the GPU" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps;Student+%C2%B7+1k%2B+commits+in+the+last+year" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3D59A1&center=true&vCenter=true&width=640&lines=AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps;Student+%C2%B7+1k%2B+commits+in+the+last+year" alt="AI research, frontend, Swift, chaos on the GPU" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6-Explore%20my%203D%20workspace-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Explore my 3D workspace" /></a>
-  <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cswift%2Ccs%2Ccpp%2Cbash%2Creact%2Cvite%2Cthreejs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Celectron%2Capple%2Clinux%2Cgit%2Cgithub%2Cblender%2Cunity&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cswift%2Ccs%2Ccpp%2Cbash%2Creact%2Cvite%2Cthreejs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Celectron%2Capple%2Clinux%2Cgit%2Cgithub%2Cblender%2Cunity&perline=11&theme=light" alt="Python, TypeScript, JavaScript, Swift, C#, C++, Bash, React, Vite, Three.js, Tailwind, HTML, CSS, Node.js, Electron, macOS, Linux, Git, GitHub, Blender, Unity" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-1a1b27?style=flat-square" alt="Lenis" />
+  <img src="https://img.shields.io/badge/WebGL-1a1b27?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/SwiftUI-1a1b27?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+</p>
+
+<p align="center">
+  <a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6-HUB%20%C2%B7%20interactive%203D%20portfolio-3d59a1?style=for-the-badge&labelColor=1a1b27" alt="HUB, my interactive 3D portfolio" /></a>
+  <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-7c5cd6?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
 </p>
 
 <table align="center">
@@ -67,7 +89,7 @@ Deep zoom falls back to float64 once float32 precision would alias neighbouring 
 <br/><br/>
 <b>Now:</b> writing up finite-time Lyapunov exponent (FTLE) fields of the Lorenz system across the (σ, ρ) plane.
 <br/><br/>
-<a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%E2%96%B6%20live%20demo-7aa2f7?style=flat-square" alt="Live demo" /></a>
+<a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%E2%96%B6%20live%20demo-3d59a1?style=flat-square" alt="Live demo" /></a>
 <img src="https://img.shields.io/badge/WebGL-1a1b27?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </td>
@@ -78,37 +100,30 @@ Deep zoom falls back to float64 once float32 precision would alias neighbouring 
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://vasiniks.github.io/Hub/">🏠 Workspace</a></h3>
-An explorable 3D room where my projects live: a Three.js scene with Blender-baked lighting and props.
+<td colspan="2" valign="top">
+<h3><a href="https://vasiniks.github.io/Hub/">🏠 HUB</a></h3>
+My interactive 3D portfolio: an explorable room where the projects live, built in Three.js with Blender-baked lighting and props.
 <br/><br/>
-<a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-7aa2f7?style=flat-square" alt="Live" /></a>
+<a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6%20explore%20HUB-3d59a1?style=flat-square" alt="Explore HUB" /></a>
 <img src="https://img.shields.io/badge/Three.js-1a1b27?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
 <img src="https://img.shields.io/badge/Blender-1a1b27?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender" />
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://vasiniks.github.io/Meridian/">✏️ Meridian Hex</a></h3>
-Product page for a hexagonal precision mechanical pencil, with the pencil rendered in real-time 3D.
-<br/><br/>
-<a href="https://vasiniks.github.io/Meridian/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-7aa2f7?style=flat-square" alt="Live" /></a>
-<img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Three.js-1a1b27?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/Vite-1a1b27?style=flat-square&logo=vite&logoColor=BD34FE" alt="Vite" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://vasiniks.github.io/eyedemo/">👁️ EyeQ Vision Care</a></h3>
-Cinematic, scroll-driven homepage for an optometry clinic.
+<h3><a href="https://vasiniks.github.io/Meridian/">✏️ Meridian Hex</a></h3>
+Product page for a hexagonal precision mechanical pencil, with the pencil rendered in real-time 3D.
 <br/><br/>
-<a href="https://vasiniks.github.io/eyedemo/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-7aa2f7?style=flat-square" alt="Live" /></a>
-<img src="https://img.shields.io/badge/GSAP-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+<a href="https://vasiniks.github.io/Meridian/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-3d59a1?style=flat-square" alt="Live" /></a>
 <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Three.js-1a1b27?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://vasiniks.github.io/solve-lab-v2/">⏱️ Solve Lab</a></h3>
 Rubik's cube solve-time analytics: averages of N, trend fits, smoothing filters and PB staircases, all in the browser.
 <br/><br/>
-<a href="https://vasiniks.github.io/solve-lab-v2/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-7aa2f7?style=flat-square" alt="Live" /></a>
+<a href="https://vasiniks.github.io/solve-lab-v2/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-3d59a1?style=flat-square" alt="Live" /></a>
 <img src="https://img.shields.io/badge/HTML%20%C2%B7%20JS-1a1b27?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML and JavaScript" />
 </td>
 </tr>
@@ -142,31 +157,23 @@ Keep a MacBook running lid-closed on battery via <code>pmset</code>, with a safe
 </tr>
 </table>
 
-## 🧰 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,swift,cs,cpp,bash&theme=dark" alt="Python, TypeScript, JavaScript, Swift, C#, C++, Bash" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,tailwind,html,css,nodejs,electron&theme=dark" alt="React, Vite, Three.js, Tailwind, HTML, CSS, Node.js, Electron" /><br/>
-  <img src="https://skillicons.dev/icons?i=apple,linux,git,github,blender,unity&theme=dark" alt="macOS, Linux, Git, GitHub, Blender, Unity" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lenis-1a1b27?style=flat-square" alt="Lenis" />
-  <img src="https://img.shields.io/badge/WebGL-1a1b27?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/SwiftUI-1a1b27?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-</p>
-
 ## 📈 Activity
 
 <p align="center">
-  <img width="346" src="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&hide_rank=true&custom_title=Activity" alt="GitHub activity" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&theme=tokyonight&hide_border=true&hide=stars%2Cissues&hide_rank=true&custom_title=Activity" />
+    <img width="346" src="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&hide=stars%2Cissues&hide_rank=true&custom_title=Activity&bg_color=f6f8fa&title_color=3d59a1&text_color=24292f&icon_color=7c5cd6&border_color=d0d7de" alt="GitHub activity" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html%2Ccss&theme=tokyonight&hide_border=true" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html%2Ccss&bg_color=f6f8fa&title_color=3d59a1&text_color=24292f&border_color=d0d7de" alt="Top languages" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vasiniks&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vasiniks&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Vasiniks&background=F6F8FA&border=D0D7DE&stroke=D0D7DE&ring=7C5CD6&fire=7C5CD6&currStreakNum=24292F&sideNums=24292F&currStreakLabel=3D59A1&sideLabels=3D59A1&dates=57606A" alt="Contribution streak" />
+  </picture>
 </p>
 
 ## 🎲 Off the clock
@@ -177,5 +184,8 @@ Keep a MacBook running lid-closed on battery via <code>pmset</code>, with a safe
 - 🔌 **Hardware tinkering** with STM32 boards and a C++ synth.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:bb9af7,45:3d59a1,100:1a1b27" width="100%" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:bb9af7%2C45:3d59a1%2C100:1a1b27" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:bb9af7%2C100:7aa2f7" width="100%" alt="" />
+  </picture>
 </p>
