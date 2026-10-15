@@ -12,11 +12,11 @@
 </p>
 
 <table align="center">
-<tr><td>🧠 <b>Research</b></td><td>Multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
-<tr><td>🎨 <b>Frontend</b></td><td>React · Three.js / R3F · GSAP + Lenis · scroll-driven 3D</td></tr>
-<tr><td>🍎 <b>Native</b></td><td>Swift · SwiftUI · AppKit</td></tr>
-<tr><td>🚀 <b>Shipping</b></td><td><b>Dovetail</b>, a local-first, multiplayer control plane for coding agents</td></tr>
-<tr><td>🎓 <b>Student</b></td><td>1k+ commits in the last year</td></tr>
+<tr><td>🧠&nbsp;<b>Research</b></td><td>Multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
+<tr><td>🎨&nbsp;<b>Frontend</b></td><td>React · Three.js / R3F · GSAP + Lenis · scroll-driven 3D</td></tr>
+<tr><td>🍎&nbsp;<b>Native</b></td><td>Swift · SwiftUI · AppKit</td></tr>
+<tr><td>🚀&nbsp;<b>Shipping</b></td><td><b>Dovetail</b>, a local-first, multiplayer control plane for coding agents</td></tr>
+<tr><td>🎓&nbsp;<b>Student</b></td><td>1k+ commits in the last year</td></tr>
 </table>
 
 ## 🤖 AI systems & agent infrastructure
