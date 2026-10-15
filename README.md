@@ -11,16 +11,13 @@
   <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
 </p>
 
-```ts
-const vasiniks = {
-  roles:    ["AI researcher", "frontend engineer", "Swift developer", "student"],
-  research: ["multi-agent orchestration", "LLM routing & prompt caching", "Lyapunov exponents of chaotic systems"],
-  frontend: ["React", "Three.js / R3F", "GSAP + Lenis", "scroll-driven 3D"],
-  native:   ["Swift", "SwiftUI", "AppKit"],
-  shipping: "Dovetail — a local-first, multiplayer control plane for coding agents",
-  offClock: ["blindfolded cubing", "Balatro… in Desmos", "Unity", "Blender"],
-};
-```
+<table align="center">
+<tr><td>🧠 <b>Research</b></td><td>Multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
+<tr><td>🎨 <b>Frontend</b></td><td>React · Three.js / R3F · GSAP + Lenis · scroll-driven 3D</td></tr>
+<tr><td>🍎 <b>Native</b></td><td>Swift · SwiftUI · AppKit</td></tr>
+<tr><td>🚀 <b>Shipping</b></td><td><b>Dovetail</b>, a local-first, multiplayer control plane for coding agents</td></tr>
+<tr><td>🎓 <b>Student</b></td><td>1k+ commits in the last year</td></tr>
+</table>
 
 ## 🤖 AI systems & agent infrastructure
 
