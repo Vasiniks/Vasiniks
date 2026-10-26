@@ -15,7 +15,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-light.svg" alt="Python, TypeScript, JavaScript, Swift, C#, C++, LaTeX, Ollama, Hugging Face, React, Vite, Three.js, Electron, Unity" />
+    <img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-light.svg" alt="Python, TypeScript, JavaScript, Swift, C#, C++, HTML, LaTeX, Ollama, Hugging Face, React, Vite, Three.js, Electron, Unity, macOS" />
   </picture>
 </p>
 
@@ -37,18 +37,7 @@
   <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-7c5cd6?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
 </p>
 
-<table align="center">
-<tr><td>🧪&nbsp;<b>Lab</b></td><td>Sole member of <b>GEHIRNS</b> · <b>magi-1.0</b>: Qwen3.5-4B in 1.8 GiB, no training · paper on Zenodo</td></tr>
-<tr><td>🧠&nbsp;<b>Research</b></td><td>Mixed-precision quantization · multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
-<tr><td>🎨&nbsp;<b>Frontend</b></td><td>React · Three.js / R3F · GSAP + Lenis · scroll-driven 3D</td></tr>
-<tr><td>🍎&nbsp;<b>Native</b></td><td>Swift · SwiftUI · AppKit</td></tr>
-<tr><td>🚀&nbsp;<b>Shipping</b></td><td><b>Dovetail</b>, a local-first, multiplayer control plane for coding agents</td></tr>
-<tr><td>🎓&nbsp;<b>Student</b></td><td>1k+ commits in the last year</td></tr>
-</table>
-
 ## 🧪 GEHIRNS, my lab
-
-<a href="https://gehirns.pages.dev/"><img src="https://gehirns.pages.dev/assets/img/og.png" width="100%" alt="GEHIRNS: capability per GB" /></a>
 
 I'm the sole member of **[GEHIRNS](https://github.com/GEHIRNS)**, a lab that makes open models smaller by measuring where their bits matter, then putting them there. The research, the models, the paper and the site are all one person.
 
@@ -95,8 +84,6 @@ One Claude Code session, two model providers. A localhost proxy that routes <cod
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Vasiniks/instinct">🃏 instinct</a></h3>
 An agent that plays Balatro. Code does the card math and simulates how each move plays out, a small decision model (TypeSafe Jev) judges, and confidence gates decide who acts. It won 2 of its first 8 real games at White stake.
-<br/><br/>
-<a href="https://github.com/Vasiniks/instinct"><img src="https://raw.githubusercontent.com/Vasiniks/instinct/main/docs/media/dashboard.png" width="100%" alt="The instinct dashboard: the live game, the decision with model probabilities and gates, and the run trace" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/runtime%20deps-0-1a1b27?style=flat-square" alt="Zero runtime dependencies" />
@@ -188,25 +175,6 @@ An edge-docked status light for every AI coding agent on your Mac. It shows whic
 </td>
 </tr>
 </table>
-
-## 📈 Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&theme=tokyonight&hide_border=true&hide=stars%2Cissues&hide_rank=true&custom_title=Activity" />
-    <img width="346" src="https://github-readme-stats.vercel.app/api?username=Vasiniks&show_icons=true&hide=stars%2Cissues&hide_rank=true&custom_title=Activity&bg_color=f6f8fa&title_color=3d59a1&text_color=24292f&icon_color=7c5cd6&border_color=d0d7de" alt="GitHub activity" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html%2Ccss&theme=tokyonight&hide_border=true" />
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasiniks&layout=compact&langs_count=6&hide=html%2Ccss&bg_color=f6f8fa&title_color=3d59a1&text_color=24292f&border_color=d0d7de" alt="Top languages" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vasiniks&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Vasiniks&background=F6F8FA&border=D0D7DE&stroke=D0D7DE&ring=7C5CD6&fire=7C5CD6&currStreakNum=24292F&sideNums=24292F&currStreakLabel=3D59A1&sideLabels=3D59A1&dates=57606A" alt="Contribution streak" />
-  </picture>
-</p>
 
 ## 🎲 Off the clock
 
