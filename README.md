@@ -14,15 +14,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cswift%2Ccs%2Ccpp%2Cbash%2Creact%2Cvite%2Cthreejs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Celectron%2Capple%2Clinux%2Ccloudflare%2Cgithub%2Cblender%2Cunity&perline=11&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cswift%2Ccs%2Ccpp%2Cbash%2Creact%2Cvite%2Cthreejs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Celectron%2Capple%2Clinux%2Ccloudflare%2Cgithub%2Cblender%2Cunity&perline=11&theme=light" alt="Python, TypeScript, JavaScript, Swift, C#, C++, Bash, React, Vite, Three.js, Tailwind, HTML, CSS, Node.js, Electron, macOS, Linux, Cloudflare, GitHub, Blender, Unity" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-light.svg" alt="Python, TypeScript, JavaScript, Swift, C#, C++, HTML, LaTeX, Ollama, Hugging Face, React, Vite, Three.js, Tailwind, Node.js, Electron, Cloudflare, macOS, Blender, Unity" />
   </picture>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/GSAP%20%C2%B7%20Lenis-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP · Lenis" />
+  <img src="https://img.shields.io/badge/llama.cpp-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIwIDEwIDIwNSAyMzAiPjxnIGZpbGw9IiNmZjgyMzYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC05OTUuNSAtMTI5LjcpIj48cGF0aCBkPSJtMTE2My4zIDIyNi44LTEzLjUgMjRjLTE3LjgtMTMuNy00NC4yLTE1LjctNjItMS0yOC43IDIzLjctMjYuNyA3OC41IDE4IDc4LjggMTIuNSAwIDIzLjEtNS45IDM0LjUtOS44bDYgMjMuOWMtMTAuMSA0LjctMjAuNCA5LjUtMzEuNSAxMS0xMDEuMiAxMy44LTk1LjQtMTMyLjMtMy45LTEzOS45IDE5LjItMS42IDM2LjEgMy40IDUyLjUgMTN6Ii8%2BPHBhdGggZD0ibTEwOTMuNCAyMDMuOGMtMTUuNCA0LjYtMjkuNyAxMy4xLTQwLjUgMjUtMi0yNC4yIDMuNC03My4xIDMwLjMtODIuNyA0LTEuNCAxNy43LTQuOSAxNy4zIDIuMi0uNCA3LjEtOS45IDE5LjMtMTIuMiAyNS45LTQgMTEuNi0uMyAxOS42IDUuMiAyOS43eiIvPjxwYXRoIGQ9Ik0xMTMxLjQgMzA3LjhoLTE1di0xN2gtMTd2LTE0aDE1LjVsMS41LTEuNXYtMTYuNWgxNXYxOGgxNnYxNGgtMTZ6Ii8%2BPHBhdGggZD0iTTExODYuNCAyOTAuOHYxN2gtMTV2LTE3aC0xNnYtMTRoMTZ2LTE4aDE1djE2LjVsMS41IDEuNWgxNS41djE0eiIvPjxwYXRoIGQ9Im0xMTQyLjMgMTU2LjljMiAzLTkuMyAxNS45LTExLjEgMTkuMi01LjIgOS44LTEuNyAxNS40IDIuMiAyNC43LTExLjMtMS43LTIxLjgtLjMtMzMgMSAyLjUtMjEuNSAxNC42LTUyLjggNDEuOS00NC45eiIvPjwvZz48L3N2Zz4K" alt="llama.cpp" />
+  <img src="https://img.shields.io/badge/GSAP-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-1a1b27?style=flat-square" alt="Lenis" />
+  <img src="https://img.shields.io/badge/WebGL-1a1b27?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/SwiftUI-1a1b27?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
   <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 </p>
