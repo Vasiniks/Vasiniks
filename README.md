@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27%2C55:3d59a1%2C100:bb9af7&text=Vasiniks&fontColor=ffffff&fontSize=78&fontAlignY=36&desc=AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7aa2f7%2C100:bb9af7&text=Vasiniks&fontColor=1a1b27&fontSize=78&fontAlignY=36&desc=AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vasiniks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27%2C55:3d59a1%2C100:bb9af7&text=Vasiniks&fontColor=ffffff&fontSize=78&fontAlignY=36&desc=GEHIRNS%20%C2%B7%20AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7aa2f7%2C100:bb9af7&text=Vasiniks&fontColor=1a1b27&fontSize=78&fontAlignY=36&desc=GEHIRNS%20%C2%B7%20AI%20research%20%C2%B7%20Frontend%20%C2%B7%20Swift&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vasiniks" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps;Student+%C2%B7+1k%2B+commits+in+the+last+year" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3D59A1&center=true&vCenter=true&width=640&lines=AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps;Student+%C2%B7+1k%2B+commits+in+the+last+year" alt="AI research, frontend, Swift, chaos on the GPU" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Sole+member+of+GEHIRNS+%C2%B7+capability+per+GB;magi-1.0+%C2%B7+Qwen3.5-4B+in+1.8+GiB%2C+no+training;AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3D59A1&center=true&vCenter=true&width=640&lines=Sole+member+of+GEHIRNS+%C2%B7+capability+per+GB;magi-1.0+%C2%B7+Qwen3.5-4B+in+1.8+GiB%2C+no+training;AI+research+%C2%B7+agents+%C2%B7+LLM+infrastructure;Frontend+%C2%B7+React+%C2%B7+Three.js+%C2%B7+GSAP;Native+macOS+apps+in+Swift+%26+SwiftUI;Chaos+on+the+GPU+%C2%B7+Lyapunov+phase+maps" alt="Sole member of GEHIRNS, magi-1.0, AI research, frontend, Swift, chaos on the GPU" />
   </picture>
 </p>
 
@@ -20,6 +20,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/llama.cpp-1a1b27?style=flat-square" alt="llama.cpp" />
   <img src="https://img.shields.io/badge/GSAP-1a1b27?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
   <img src="https://img.shields.io/badge/Lenis-1a1b27?style=flat-square" alt="Lenis" />
   <img src="https://img.shields.io/badge/WebGL-1a1b27?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
@@ -29,17 +32,44 @@
 </p>
 
 <p align="center">
-  <a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6-HUB%20%C2%B7%20interactive%203D%20portfolio-3d59a1?style=for-the-badge&labelColor=1a1b27" alt="HUB, my interactive 3D portfolio" /></a>
+  <a href="https://gehirns.pages.dev/"><img src="https://img.shields.io/badge/GEHIRNS-magi--1.0-1a1b27?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjM0IDM0IDExMiAxMTIiPjxwYXRoIGZpbGw9IiNGRjNCMzAiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTQwIDY1TDY1IDkwTDY1IDY1Wk02NSA5MEw2NSAxMTVMOTAgMTE1Wk02NSA2NUw5MCA5MEw5MCAxMTVMMTAyLjUgMTAyLjVMMTQwIDE0MEwxNDAgOTBMMTE1IDY1TDE0MCA2NUwxMTUgNDBMOTAgNDBaTTY1IDY1TDY1IDQwTDQwIDQwWk0xMTUgMTE1TDkwIDExNUw5MCAxNDBaTTY1IDExNUw0MCA5MEw0MCAxMTVMNjUgMTQwWiIvPjwvc3ZnPgo%3D" alt="GEHIRNS, my lab: magi-1.0" /></a>
+  <a href="https://doi.org/10.5281/zenodo.23630199"><img src="https://img.shields.io/badge/%F0%9F%93%84-Where%20the%20Bits%20Go%20%C2%B7%20paper-3d59a1?style=for-the-badge&labelColor=1a1b27" alt="Paper: Where the Bits Go" /></a>
   <a href="https://vasiniks.github.io/Strange-Attractors-Phase-Map-Explorer/"><img src="https://img.shields.io/badge/%CE%BB-Lyapunov%20explorer-7c5cd6?style=for-the-badge&labelColor=1a1b27" alt="Lyapunov explorer" /></a>
 </p>
 
 <table align="center">
-<tr><td>🧠&nbsp;<b>Research</b></td><td>Multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
+<tr><td>🧪&nbsp;<b>Lab</b></td><td>Sole member of <b>GEHIRNS</b> · <b>magi-1.0</b>: Qwen3.5-4B in 1.8 GiB, no training · paper on Zenodo</td></tr>
+<tr><td>🧠&nbsp;<b>Research</b></td><td>Mixed-precision quantization · multi-agent orchestration · LLM routing &amp; prompt caching · Lyapunov exponents of chaotic systems</td></tr>
 <tr><td>🎨&nbsp;<b>Frontend</b></td><td>React · Three.js / R3F · GSAP + Lenis · scroll-driven 3D</td></tr>
 <tr><td>🍎&nbsp;<b>Native</b></td><td>Swift · SwiftUI · AppKit</td></tr>
 <tr><td>🚀&nbsp;<b>Shipping</b></td><td><b>Dovetail</b>, a local-first, multiplayer control plane for coding agents</td></tr>
 <tr><td>🎓&nbsp;<b>Student</b></td><td>1k+ commits in the last year</td></tr>
 </table>
+
+## 🧪 GEHIRNS, my lab
+
+<a href="https://gehirns.pages.dev/"><img src="https://gehirns.pages.dev/assets/img/og.png" width="100%" alt="GEHIRNS: capability per GB" /></a>
+
+I'm the sole member of **[GEHIRNS](https://github.com/GEHIRNS)**, a lab that makes open models smaller by measuring where their bits matter, then putting them there. The research, the models, the paper and the site are all one person.
+
+### [magi-1.0](https://github.com/GEHIRNS/magi): Qwen3.5-4B in 1.8 GiB, with no training
+
+Sensitivity-allocated mixed precision. Lower one kind of tensor at a time and count how often the model's top next-token choice stops matching full precision, then spend a fixed size budget where the damage per byte is largest: 4.5–8.5 bits for the small attention and DeltaNet projections, 3.06 bits for the big FFN matrices, 3.65 on average. Standard GGUF formats, so it runs unmodified in llama.cpp and Ollama.
+
+<a href="https://github.com/GEHIRNS/magi"><img src="https://raw.githubusercontent.com/GEHIRNS/magi/main/images/headline.png" width="100%" alt="magi-1.0 with an 8-bit KV cache vs Qwen3.5-4B BF16: 3.4× less GPU memory, 96% of the benchmark score, 2.7× faster decoding, 3.0× capability per GiB" /></a>
+<p align="center"><sub>With an 8-bit KV cache, against Qwen3.5-4B BF16 on one RTX 5070 (12 GB) and the same 2,313 tasks across 12 suites. Against Q2_K, most of the gain is fewer runaway reasoning loops: 21% of failed tasks end in one, against 59%.</sub></p>
+
+```bash
+ollama run hf.co/GEHIRNS/magi-1.0
+```
+
+**Paper:** [*Where the Bits Go: Sensitivity-Allocated Mixed Precision for a 4B Reasoning Model on a 12 GB Consumer GPU*](https://doi.org/10.5281/zenodo.23630199) (Zenodo, 2026). The build recipe and the data behind every table are in the repo, and a rebuild matches the release byte for byte.
+
+<a href="https://gehirns.pages.dev/"><img src="https://img.shields.io/badge/%E2%96%B6%20gehirns.pages.dev-3d59a1?style=flat-square" alt="gehirns.pages.dev" /></a>
+<a href="https://huggingface.co/GEHIRNS/magi-1.0"><img src="https://img.shields.io/badge/weights-Hugging%20Face-1a1b27?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=1a1b27&color=3d59a1" alt="Weights on Hugging Face" /></a>
+<a href="https://doi.org/10.5281/zenodo.23630199"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23630199-1a1b27?style=flat-square&logo=zenodo&logoColor=white" alt="DOI 10.5281/zenodo.23630199" /></a>
+<img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Apache--2.0-1a1b27?style=flat-square" alt="Apache-2.0" />
 
 ## 🤖 AI systems & agent infrastructure
 
@@ -62,7 +92,16 @@ One Claude Code session, two model providers. A localhost proxy that routes <cod
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Vasiniks/instinct">🃏 instinct</a></h3>
+An agent that plays Balatro. Code does the card math and simulates how each move plays out, a small decision model (TypeSafe Jev) judges, and confidence gates decide who acts. It won 2 of its first 8 real games at White stake.
+<br/><br/>
+<a href="https://github.com/Vasiniks/instinct"><img src="https://raw.githubusercontent.com/Vasiniks/instinct/main/docs/media/dashboard.png" width="100%" alt="The instinct dashboard: the live game, the decision with model probabilities and gates, and the run trace" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/runtime%20deps-0-1a1b27?style=flat-square" alt="Zero runtime dependencies" />
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Vasiniks/OpenFlow">🌊 OpenFlow</a></h3>
 One-line install that turns a coding agent into a high-end frontend studio: skills, MCP servers, plugins and a specialist agent fleet, wired into OpenCode, Claude Code, Codex, Cursor and Gemini CLI, with built-in <code>doctor</code> / <code>fix</code> self-repair.
 <br/><br/>
@@ -101,13 +140,12 @@ Deep zoom falls back to float64 once float32 precision would alias neighbouring 
 <table>
 <tr>
 <td colspan="2" valign="top">
-<h3><a href="https://vasiniks.github.io/Hub/">🏠 HUB</a></h3>
-My interactive 3D portfolio: an explorable room where the projects live, built in Three.js with Blender-baked lighting and props.
+<h3><a href="https://gehirns.pages.dev/">🟥 gehirns.pages.dev</a></h3>
+The GEHIRNS site: a skippable boot sequence, a pinned scroll map of where magi-1.0's bits go across all 249 quantized tensors, and a results chart, with every number taken from the public data. Plain HTML, CSS and ES modules on Cloudflare Pages: no framework, no build step, no dependencies, and a strict CSP.
 <br/><br/>
-<a href="https://vasiniks.github.io/Hub/"><img src="https://img.shields.io/badge/%E2%96%B6%20explore%20HUB-3d59a1?style=flat-square" alt="Explore HUB" /></a>
-<img src="https://img.shields.io/badge/Three.js-1a1b27?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/Blender-1a1b27?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender" />
-<img src="https://img.shields.io/badge/Vite-1a1b27?style=flat-square&logo=vite&logoColor=BD34FE" alt="Vite" />
+<a href="https://gehirns.pages.dev/"><img src="https://img.shields.io/badge/%E2%96%B6%20live-3d59a1?style=flat-square" alt="Live" /></a>
+<img src="https://img.shields.io/badge/HTML%20%C2%B7%20CSS%20%C2%B7%20JS-1a1b27?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML, CSS and JavaScript" />
+<img src="https://img.shields.io/badge/Cloudflare%20Pages-1a1b27?style=flat-square&logo=cloudflarepages&logoColor=F38020" alt="Cloudflare Pages" />
 </td>
 </tr>
 <tr>
@@ -147,12 +185,6 @@ An edge-docked status light for every AI coding agent on your Mac. It shows whic
 <br/><br/>
 <img src="https://img.shields.io/badge/SwiftUI-1a1b27?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
 <img src="https://img.shields.io/badge/AppKit-1a1b27?style=flat-square&logo=apple&logoColor=white" alt="AppKit" />
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3><a href="https://github.com/Vasiniks/wake">☕ wake</a></h3>
-Keep a MacBook running lid-closed on battery via <code>pmset</code>, with a safe on/off switch and auto-revert.
 </td>
 </tr>
 </table>
