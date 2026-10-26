@@ -15,7 +15,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-light.svg" alt="Python, TypeScript, JavaScript, Swift, C#, C++, HTML, LaTeX, Ollama, Hugging Face, React, Vite, Three.js, Tailwind, Node.js, Electron, Cloudflare, macOS, Blender, Unity" />
+    <img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/stack-light.svg" alt="Python, TypeScript, JavaScript, Swift, C#, C++, LaTeX, Ollama, Hugging Face, React, Vite, Three.js, Electron, Unity" />
   </picture>
 </p>
 
