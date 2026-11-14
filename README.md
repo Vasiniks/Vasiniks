@@ -43,10 +43,10 @@
 
 I'm the sole member of **[GEHIRNS](https://github.com/GEHIRNS)**: open models made smaller by measuring where their bits matter, then putting them there. Every model is scored on the same 2,313 tasks and set against the memory it actually takes on one 12 GB GPU.
 
-<a href="https://github.com/GEHIRNS/magi"><img src="https://raw.githubusercontent.com/GEHIRNS/magi/main/images/headline.png" width="100%" alt="magi-1.0-4B with an 8-bit KV cache vs Qwen3.5-4B BF16: 3.4× less GPU memory, 96% of the benchmark score, 2.7× faster decoding, 3.0× capability per GiB" /></a>
+<a href="https://huggingface.co/GEHIRNS/magi-1.2-4B"><img src="https://raw.githubusercontent.com/Vasiniks/Vasiniks/main/assets/magi-1.2-4B-headline.png" width="100%" alt="magi-1.2-4B vs Qwen3.5-4B BF16: 3.7× less memory, 98% of the BF16 score kept, 2.8× faster decoding, 3.5× capability per GiB" /></a>
 
 - **[magi-1.2-2B](https://huggingface.co/GEHIRNS/magi-1.2-2B)**: Qwen3.5-2B in 1.23 GiB, trained once against repetition loops. sprint runs it by default.
-- **[magi-1.1-4B](https://huggingface.co/GEHIRNS/magi-1.1-4B)**: Qwen3.5-4B in 2.61 GiB, with a LoRA that teaches it to finish its thinking.
+- **[magi-1.2-4B](https://huggingface.co/GEHIRNS/magi-1.2-4B)** (the chart): Qwen3.5-4B in 2.55 GiB. It's [magi-1.1-4B](https://huggingface.co/GEHIRNS/magi-1.1-4B) (a LoRA that teaches it to finish its thinking) with its bits refit by measurement.
 - **[seele-1.0-3.3B](https://github.com/GEHIRNS/seele)**: a 4B decision model with a quarter of its layers removed and no training: 1.8× less GPU memory at 98% of the score.
 
 ```bash
